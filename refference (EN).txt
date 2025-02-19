@@ -1,0 +1,48 @@
+Calcium Deficiency: Caused by calcium deficiency. Occurs near the growing point, causing leaf tissue to turn black or brown and necrosis. Blossom end rot occurs on the fruit simultaneously.
+(1) Excessive transpiration: When relative humidity is low and transpiration is high, transpiration from mature lower leaves is high and transpiration from relatively immature new leaves is low. Since calcium is transported with water, the amount of calcium supplied to new leaf parts is reduced, causing tissue necrosis.
+(2) Suppression of water absorption: When water absorption is suppressed due to low soil moisture or high salt concentration in the root zone, calcium absorption and transfer are prevented, resulting in calcium deficiency mainly in the new leaves.
+(3)Inhibition of calcium absorption: Calcium absorption is inhibited when the calcium concentration in the root zone is low or when there are many cations that antagonistically inhibit calcium absorption (especially during high rootzone temperatures, when concentration of ammonia ion is  highe).
+
+Iron and Manganese Deficiency: Caused by deficiencies of iron and manganese. Iron and manganese deficiencies occur under similar conditions, and in many cases both are deficient. New leaves turn white between the veins. The veins remain green. Symptoms appear on the new leaves and gradually bleach the lower leaves. This symptom is more likely to occur on varieties with low root volume. High PH in the root zone causes iron and manganese ions to become insoluble, resulting in reduced absorption and iron and manganese deficiencies.
+
+Magnesium Deficiency: Magnesium deficiency occurs. Yellowing of the interveins of leaves near vigorously enlarged fruit. This occurs in environments where magnesium absorption is inhibited.
+(1) High EC in the root zone
+(2) Decrease in root activity due to a decrease in root zone temperature.
+
+Nitrogen Deficiency: Nitrogen deficiency causes lightening of the overall leaf color and stunted growth.
+
+Phosphorus Deficiency: Deficiency of phosphoric acid. This disease tends to occur on new leaves, resulting in light leaf color and stunted growth. The undersides of leaves turn red to purple. Phosphate deficiency occurs when the amount of phosphoric acid absorbed decreases.
+(1) A decrease in temperature in the root zone causes a decrease in the amount of phosphoric acid absorbed.
+(2) Phosphoric acid is more likely to be absorbed in soils (black soil) that easily absorb phosphoric acid.
+
+Pottasium Deficiency: Caused by potassium deficiency. Leaf margins near the vigorously enlarging fruit turn brown and become necrotic. The necrotic areas may be invaded by gray mold. The disease tends to occur during periods of vigorous fruit growth because the fruit requires large amounts of potassium. Symptoms often subside with additional potassium fertilizer.
+
+Fruit
+Blossom End Rot:
+The top of the fruit (where the petals used to be) turns water-soaked and black, and may become sunken. It is caused by calcium deficiency. Causes are the same as those for leaves. Occurs most frequently on large tomatoes, but rarely on small and medium-sized tomatoes. Normally, after sunset, the stomata close and transpiration rate decreases, during which time calcium is supplied to the new leaves and fruits, which have little water movement by transpiration. However, when the air becomes dry, transpiration continues from the leaf surface during the night, making it difficult for calcium to be supplied to new leaves and fruits, resulting in butt-rot fruits. Foliar application of calcium chelate is effective in preventing this problem.
+
+Fruit Cracking:
+There are two types of fruit cracking: “cracked skin,” which is caused by delayed harvesting, and “cracked fruit,” in which the skin and pulp are deeply split in radial or concentric circles. The causes of cracking have been reported in a variety of ways and are not clear. High temperatures are clearly a factor, as the fruit is more likely to split at high temperatures. When fruit grows under high temperatures, (1) the elasticity of the skin and pulp cells decreases, (2) the number of cells that make up the skin and pulp decreases, and the fruit is unable to withstand rapid fruit enlargement. This is thought to be due to (1) a decrease in the elasticity of the skin and pulp cells and (2) a decrease in the number of cells that make up the skin and pulp, making them unable to withstand rapid fruit growth. In addition to high temperatures, the occurrence of the disease increases when nighttime temperatures drop sharply after mid-August. Under these conditions, the humidity in the greenhouse at night increases, transpiration from the leaves completely disappears, and water absorbed from the roots flows into the fruit, causing cracking of the fruit from a young stage.
+
+Malformation.
+The cause of this malformation is unknown, but it is believed to occur more frequently when vegetative growth is strong. It also occurs frequently at low temperatures and high fertilizer levels. It is thought that morphological abnormalities are caused by a lack of photosynthetic products during flower bud formation. Appropriate fertilizer management and temperature control are important.
+
+Paffiness:
+Hollow fruit. The jelly portion of the fruit does not develop, resulting in a bumpy appearance. This occurs when there is a lack of photosynthetic products.
+Pitted Fruits:
+Pitted Fruits: A type of fruit with a pitted window. A type of irregularly shaped fruit.
+
+Sunscald:
+Sunscald: The surface of the fruit becomes water-soaked, necrotic, and yellowish white. It is caused by prolonged exposure of the rind to direct sunlight.
+Yellow Shoulder:
+Yellowish yellowing of the shoulder of the fruit. It is more likely to occur during the hot season, when the shoulder of the fruit is exposed to direct sunlight, resulting in high temperatures, decomposition of carotenoids, and suppression of lycopene production. Avoid over-plucking to allow the fruit to enlarge in the shade of the leaves.
+Zippering:
+Chuck fruit. A type of irregularly shaped fruit.
+
+Rotten Fruit:
+Rotten Fruit: A type of fruit with a core rot. If there is no external appearance, the internal tissues of the fruit may be blackened.
+Netting:
+Also called “netted fruit,” “netted fruit,” or “gooseberry fruit. Netting is observed on the surface of the fruit. The rind is thin and the vascular bundles are visible through the outside of the fruit. Fruit softening is often observed. The cause has not been identified.
+Gold Specs:
+Gold speck, a condition in which numerous small white spots are observed on the surface of tomato fruit. The specks are reported to be calcium oxalate.
+
