@@ -1,0 +1,113 @@
+Leaf
+Calcium Deficiency:
+（症状の発生場所）あらたに展開中の若い葉や成長点付近の新しい葉に発生する。下位の葉に発生することはない。
+（症状の特徴）葉の組織が黒変または茶褐色に変色し、しおれたり、縮れる、壊死する。成長点が壊死して芯止まりが生じることがある。新しく展開する葉が小さく縮れ、正常な形状を保てずに歪んでいる。葉の縁が波打つように縮み、時には巻き込むような形状を示す。葉の先端や縁から茶色または黒色に変色し、乾燥して枯れ込む症状が見られる。進行すると壊死部分が拡大し、葉全体が枯れたように見える。新しく成長する部分の葉が正常に展開できず、萎縮しながら成長が抑制される。茎の先端部でも萎れが発生することがある。葉の一部が黄色く変色（クロロシス）する。その後、黄変部分が褐変し、壊死に進行する。生長点が変形し、正常に伸びない。場合によっては枯死し、新しい葉が十分に発達しない同時に果実に尻腐れが発生することも多い。
+(Location of symptoms)Occurs on newly developing young leaves and on new leaves near the growing point. It does not occur on lower leaves.
+(Characteristics)Leaf tissue turns black or brown, wilts, shrivels, and necrotic. Growth points may become necrotic, resulting in a dead center. Newly unfolding leaves are small, shriveled, and distorted without retaining their normal shape. Leaf margins are wavy and shriveled, sometimes showing a rolled-in shape. The leaves turn brown or black from the tips and margins, and dry up and wither. As the disease progresses, the necrotic area enlarges and the entire leaf appears to die. Newly growing leaves fail to develop normally, and growth is suppressed with atrophy. Shriveling may also occur at the stem tips. Part of the leaf turns yellow (chlorosis). Subsequently, the yellowing area turns brown and progresses to necrosis. The growth point is deformed and does not grow normally. In some cases, the plant dies and new leaves do not develop sufficiently, and at the same time, blossom end rot often occurs in the fruit.
+
+
+
+Iron and Manganese Deficiency：（症状の発生場所）主に新葉に症状が現れる。葉の先端よりも付け根、基部に強く症状が現れる。症状が進行すると、葉全体が黄白色になる。壊死、枯死は生じないことが多い。新葉から症状があらわれ、次第に下位葉まで白化する。根果実に症状が現れることはほとんどない。
+（症状の特徴）葉脈は緑色を保ち、葉脈間が黄色～白色となる「葉脈間黄白化」が特徴的。症状は成長点付近であらたに展開中の新葉から発生し、徐々に古い葉にも広がる。重度の場合は、新葉が完全に白くなることもある。新葉から症状があらわれ、次第に下位葉まで白化する。通常のトマト葉と比べて光沢が少ない。黄白化が軽度のうちは、葉脈間に網目模様が観察されるときもある。一部の葉では軽度の縮れ（カール）や萎縮が見られる。葉の成長が遅れたり、不規則な形状を示すことがある。特に新葉が小さく発育不全となる。
+(Location of symptoms)Symptoms appear mainly on new leaves. Symptoms appear more strongly at the base and base of the leaf than at the tip. As the disease progresses, the entire leaf turns yellowish white. Necrosis and death often do not occur. Symptoms begin on new leaves and gradually progress to the lower leaves.
+（Characteristics: The veins of the leaves remain green and the spaces between the veins turn yellow to white (intervein yellowing). Symptoms begin on newly developing new leaves near the growing point and gradually spread to older leaves. In severe cases, new leaves may turn completely white. Symptoms begin on the new leaves and gradually extend to the lower leaves. The leaves are less glossy than normal tomato leaves. When the whitening is mild, a reticulate pattern may be observed between the veins. Some leaves show mild curling or wilting. Leaf growth may be retarded or irregularly shaped. New leaves are particularly small and stunted.
+
+Magnesium Deficiency：（症状の発生場所）旺盛に肥大している果実近傍の葉の葉脈間が黄変する。徐々に新しい葉にも広がる。（症状の特徴）葉脈は緑色を保ち、葉脈間が黄色くなる「葉脈間黄化」が特徴的。最初は淡い黄色のまだら模様が現れ、症状が進行すると黄色が濃くなり、最終的に葉が全体的に黄化する。進行すると、葉の縁や先端部が褐色や赤紫色に変色し、一部が壊死する。葉縁が内側に巻き込むことがある。黄化するかわりに赤紫色に葉脈間がかすれる症状の場合もある。症状が進行すると葉脈周辺も黄化し、壊死斑が生じる。
+(Location of symptoms)Yellowing between the veins of leaves near the vigorously enlarged fruit. It gradually spreads to new leaves. (Characteristics) The veins of the leaves remain green, but the yellowing between the veins is characterized by “yellowing between the veins. The yellowing is characterized by the yellowing between the veins of the leaves, while the veins remain green. As the disease progresses, the leaf edges and tips turn brown or reddish purple, and some of the leaves become necrotic. Leaf margins may curl inward. In some cases, instead of yellowing, the reddish-purple color between the veins fades. As the symptoms progress, the area around the veins also turns yellow and necrotic patches appear.
+ zone temperature.
+
+
+Nitrogen Deficiency：
+（症状の発生場所）（窒素が欠乏して、葉全体の色が淡くなり、生育が停滞する。
+
+Phosphorus Deficiency：
+（症状の発生場所）主に下位葉（古い葉）に症状が現れる。葉の色が通常よりも暗くなり、全体的に濃い緑色を示す。進行すると、葉の裏面や縁が紫色や赤紫色に変色する。葉色が濃緑色になり、葉脈間が紫色や赤紫色に変色する。茎や葉柄も紫色になることがある。
+（症状の特徴）葉色が濃緑色になり、葉脈間が紫色や赤紫色に変色する「葉の紫化」が特徴的である。症状は古い葉から発生し、徐々に新しい葉にも広がる。葉の成長が抑制され、小さくなる。葉の縁が軽く内側に丸まることもあり、正常な葉に比べると縮れた印象を受ける。葉脈付近に沿って黒ずんだり、斑点が発生したりするケースも見られる。生育が抑制され、株全体が小さくなる。葉裏が赤から紫色に着色する。
+(Location of symptoms) Symptoms appear mainly on the lower (older) leaves. The color of the leaves becomes darker than normal, showing an overall dark green color. As the disease progresses, the underside and margins of the leaves turn purple or reddish purple. The leaves turn dark green, with purple or reddish purple discoloration between the veins. Stems and petioles may also turn purple.
+(Symptom characteristics)The characteristic symptom is “leaf purpling,” in which the leaves turn dark green and the spaces between the veins turn purple or reddish-purple. Symptoms begin on older leaves and gradually spread to newer leaves. Leaf growth is suppressed and leaves become smaller. The leaf edges may curl lightly inward, giving the leaf a shriveled appearance compared to normal leaves. Darkening and spotting along the veins may also occur. Growth is stunted and the entire plant becomes smaller. The undersides of the leaves turn red to purple.
+
+
+Pottasium Deficiency：
+（症状の発生場所）旺盛に肥大中の果実近傍の葉の縁が黄化、褐変し壊死する。症状は古い葉から発生し、徐々に新しい葉にも広がる。
+（症状の特徴）葉縁の黄化、褐変、壊死する。黄変した葉の縁から褐色になリ、壊死する。壊死した部分から灰色カビ病などが侵入する場合もある。葉が内側に巻き込むように変形し、シワが寄ったような外観を示すことがある。
+(Symptom Location) Yellowing, browning and necrosis of leaf margins near the vigorously enlarging fruit. Symptoms begin on older leaves and gradually spread to newer leaves.
+(Characteristics)Yellowing, browning, and necrosis of leaf margins. Yellowing, browning, and necrosis of leaf margins. Gray mold may invade from the necrotic areas. Leaves may be deformed so that they curl inward, giving them a wrinkled appearance.
+
+
+Fruit
+Blossom End Rot：
+（症状の発生場所）果実頂部（花びらがついていた部分）が水浸状に黒変し、陥没する場合もある。果実の先端が黒く腐り、凹んだり、変形したりすることがある。片側だけに発生することもあれば、果頂部全体に広がることもある。
+（症状の特徴）症状は果実の肥大期に発生しやすく、未熟果にも発生する。初期症状では、果実の先端に小さな淡い褐色の斑点が現れ、表面はやや水浸状（ぬれたような見た目）になることがある。症状が進行すると、黒褐色～黒色に変色し、徐々に広がる。乾燥して硬化し、かさぶたのようになることもある。境界は比較的はっきりしているが、周辺部がぼんやり広がることもある。さらに症状が進むと異常部分が大きくなり、果実全体が変形する。果実の内部まで変色・腐敗することがある。二次的にカビ（灰色や白い菌糸）が発生することもある。
+(Location of symptoms)The top of the fruit (where the petals used to be attached) turns water-soaked black and may become sunken. The fruit tip may be blackened, rotted, puckered or deformed. It may occur on only one side of the fruit or may spread to the entire apex.
+(Characteristics) Symptoms tend to occur during the fruit's hypertrophic stage and can also occur on unripe fruit. In the early stages, small light brown spots appear at the fruit apex, and the surface may be slightly waterlogged (wet appearance). As the disease progresses, it turns dark brown to black and spreads gradually. They may dry and harden, becoming scab-like. The borders of the lesions are relatively clear, but the periphery may become blurred. As the disease progresses, the abnormal area becomes larger and the entire fruit is deformed. Even the interior of the fruit may become discolored and rotten. Secondary fungal growth (gray or white mycelium) may also occur.
+
+
+
+Fruit Cracking：
+（症状の発生場所）果実のへたの付け根付近に発生。
+（症状の特徴）放射状に裂け目が生じる「放射状裂果」と、同心円状に裂け目が生じる「同心円状裂果」がある。いずれの場合も、亀裂が深く、果肉が見える、亀裂周囲の変色がみられることがある。
+放射状裂果：割れ目が果実の頂点（がく側）から放射状に伸びる裂果。割れ方はがくから果実の側面に向かって直線的または斜めに広がる。裂け目の数は1本～複数本で、症状が進行すると果実全体に広がることもある。割れた部分の果皮は外側にめくれるように開くことが多い。裂け目の断面は比較的浅いが、深くなると果肉が露出し、内部が見えることもある。
+同心円状裂果：果実の頂点（がく側）を中心に、輪のように同心円状の割れ目ができる裂果。ひとつの円状に裂けることもあれば、複数の同心円状のひび割れが入ることもある。割れ目は浅いことが多いが、進行すると果肉が露出する。表面の皮がひび割れる程度の軽症から、大きく割れて果実内部が露出する重症まで症状はさまざま。
+裂け目が広がると、傷んだ部分が茶色く変色し、かさぶたのように乾燥することがある。
+
+収穫遅れによって発生する「裂皮」とは異なる。
+
+(Symptom Location)Fruit develops near the base of the fruit's calyx.
+(Characteristics)There are two types of cracks: radial cracks and concentric cracks. In both cases, the cracks are deep, the flesh is visible, and discoloration around the cracks may be observed.
+Radial split: A split that radiates from the apex of the fruit (on the stem side). The splits are linear or oblique, extending from the nacre to the sides of the fruit. The number of cracks may be one or more, and in advanced cases, they may spread to the entire fruit. The rind of the cracks often opens outward. The cracks are relatively shallow in cross-section, but as they deepen, the flesh is exposed and the interior may be visible.
+Concentric rupture: Concentric ruptures form around the apex of the fruit (on the stem side), forming a ring of concentric rings. The fruit may split in a single circle or have multiple concentric cracks. The cracks are often shallow, but as they progress, the flesh is exposed. Symptoms vary from a mild case where the surface skin is cracked to a severe case where the cracks are large enough to expose the interior of the fruit.
+As the cracks widen, the damaged area may turn brown and dry out like a scab.
+This is different from “split peel,” which is caused by delayed harvesting.
+
+
+
+
+Malformation:
+（症状の発生場所）果実全体に発生する。花房内の開花順位に関係なく発生。
+（症状の特徴）通常は丸いトマトが、楕円形、ハート形、または不規則な形に変形している場合がある。通常の球形ではなく、複数の房（ローブ）が融合したような異常な形をしているものもある。表面が滑らかではなく、しわが寄ったり、ひび割れが生じたりしている。複数の果実がくっついて、一つの大きな果実のようになっている場合がある。果実の表面に、通常はないコブや突起が生じている場合がある。果実の表面が滑らかでなく、凸凹している場合がある。果実の表面に、ひび割れや亀裂が見られる場合がある。果実の表面に、傷や変色が見られる場合がある。果実に穴があいて内部がみえるようなときがあり、表面にでてきた果実内部の組織は黒変している。
+(Location of symptoms) Occurs throughout the entire fruit. Occurs regardless of the order of flowering in the cluster.
+(Characteristics of symptoms) Normally round tomatoes may be deformed into oval, heart-shaped, or irregular shapes. Some tomatoes have an unusual shape, as if multiple clusters (lobes) have fused together instead of the normal spherical shape. The surface is not smooth, but wrinkled or cracked. Multiple fruits may be attached to each other to resemble one large fruit. The surface of the fruit may have bumps or protrusions that are not normally present. The surface of the fruit is not smooth and may be uneven. The surface of the fruit may show cracks or fissures. The surface of the fruit may be scratched or discolored. The inside of the fruit may be visible through holes in the fruit, and the internal tissues of the fruit that appear on the surface are darkened.
+
+
+
+Paffiness：
+一般的な球形のトマトとは異なり、角ばったり、深い溝が入ったりするなど、空洞果。ゼリー部分が発達しないので、果実外観が、でこぼこになる。光合成産物が不足すると発生する。異形な果実形状果実は一般的な球形ではなく、角ばったり、デコボコとした形。一部の果実は四角形や五角形に近い形状をしている。果実表面には深い溝やくびれがあり、放射状に分かれたような形状になっているものもある。果実の切断面を見ると、果肉部分が区画に分かれており、種の入るゼリー状部分が少ない。
+果実の表面は滑らかではなく、しわが寄ったり、凹凸が目立つこともある。
+Unlike the common spherical tomato, the hollow fruit is angular and deeply furrowed. The jelly portion does not develop, resulting in a bumpy fruit appearance. This occurs when there is a lack of photosynthetic products. Unusual fruit shapeThe fruit is not spherical in shape, but rather angular or bumpy. Some fruits are nearly square or pentagonal in shape. The surface of the fruit has deep grooves or indentations, and some fruits have a radially divided shape. The cut surface of the fruit shows that the fleshy part is divided into compartments, and there are few jelly-like areas for seeds.
+The surface of the fruit is not smooth and may be wrinkled or uneven.
+
+
+Pitted Fruits：
+窓あき果。一般的な滑らかで球形の形状とは異なり、果実の表面に大きな開口部や亀裂が見られる。開口部は果実の側面や上部に位置し、不規則な形状を呈しており、一部の果実では穴が深く内部の果肉や種子が露出する。開口部の内部には未成熟の果肉や乾燥した組織が見受けられることがある。
+乱形果の一種。
+Unlike the general smooth, spherical shape, large openings or cracks are found on the surface of the fruit. The openings are located on the sides and top of the fruit and are irregularly shaped. In some fruits, the holes are deep enough to expose the inner flesh and seeds. Inside the aperture, immature flesh and dried tissue may be found.
+
+Sunscald：
+日焼け果：果実表面が水浸状に壊死し、白黄変する。果実の表面には、円形またはやや楕円形のへこみがあり、その部分は白色または淡褐色に変色し、しわが寄っている。
+へこんだ部分の表面は滑らかではなく、やや硬くなっているように見えるものもある。正常な果皮の部分と比べると光沢が失われ、乾燥したような質感になっている。この変化は果実の一部分に限定されており、トマト全体が変色するわけではない。また、変色部分の周囲には、黄変や褐変が見られることがある。傷みのない部分は通常のトマトと同じく、なめらかでツヤのある果皮を持っている。果皮に直射日光が直接長時間にわたってあたると生じる。
+The fruit surface is water-soaked, necrotic, and white-yellowish. The surface of the fruit has circular or slightly oval-shaped indentations, which turn white or light brown and wrinkled.
+The surface of some dented areas is not smooth and appears somewhat hardened. The skin is less shiny and has a dry texture compared to the normal rind. This change is limited to one part of the fruit, and not the entire tomato is discolored. Yellowing or browning may also be seen around the discolored area. The undamaged portion has a smooth, shiny rind, just like a normal tomato.
+
+
+Yellow Shoulder：
+（症状の発生場所）果実の肩部分（がくの部分）が黄色くのこる。
+（症状の特徴）果実の肩（ヘタの周辺部分）が黄色く色付き、完熟しても赤くならない現象。果実全体が赤く着色せず、まだらに黄色い部分が残る。黄色く変色した部分が、さらに緑色に変色する場合がある。果実全体が均一に赤く熟さず、黄色やオレンジ色のまだら模様になる。
+(Symptom Location)Yellowish staining on the shoulder of the fruit (the part around the stem).
+(Characteristics)The shoulders of the fruit (the area around the stem) turn yellow and do not turn red when fully ripe. The entire fruit does not turn red, and yellowish areas remain. The yellowish area may turn further green. The entire fruit does not ripen uniformly red, but instead becomes speckled with yellow or orange.
+
+
+Zippering：
+果皮に裂け目や瘢痕（はんこん）が見られる。果実の表面に縦方向、横方向、あるいは複数の方向に細長い割れ目が発生する。裂けた部分が瘢痕化し、傷跡のように見えるものが多く、完全に閉じたものや、一部開いたままのものもある。果実の表面には、茶色や白っぽい硬い瘢痕が形成される。裂け目が一直線になっているものや、網目状に広がっているものもある。
+The rind is cracked or scarred. Elongated cracks occur on the surface of the fruit in longitudinal, transverse, or multiple directions. Many of the cracks are scarred and look like scars, and some are completely closed, while others remain partially open. A hard brown or whitish scar forms on the surface of the fruit. Some of the fissures are in a straight line, while others are spread out in a web-like pattern.
+
+
+Rotten Fruit：
+ホウ素欠乏とされているが、ホウ素欠乏が生じる条件とカルシウム欠乏が生じる条件は同じであり、カルシウム欠乏とホウ素欠乏が重なっていると考えられる。外観状以上がない場合、果実内部の組織が黒変していることがある。
+
+Netting：
+あみ果、網入り果、グズベリ果などとも呼ばれる。果実表面に網目もようが観察される。果皮が薄く、果実の外側から維管束が透けて見える。果実の軟化を伴うことが多い。原因は特定されていない。
+A net-like pattern is observed on the surface of the fruit. The rind is thin, and the vascular bundles can be seen through the outside of the fruit. Fruit softening is often observed. The cause has not been identified.
+
+Gold Specs：
+ゴールドスペック、トマト果実の表面に多数の白色の小斑点が観察される状態。小斑点はシュウ酸カルシウムであると報告されている。
+a condition in which numerous small white spots are observed on the surface of tomato fruit. The small spots are reported to be calcium oxalate.
